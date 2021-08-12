@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h3{
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+html{
+    background-color:lightseagreen;
+}
+.title{
+    background-color: darksalmon;
+    border-radius: 30px;
+    border: black solid 2px;
+}
+.username{
+    width: 10%;
+    margin: 0 auto;
+}
+#login{
+    background-color: coral;
+    border: none;
+    margin-top:10%;
+}
+.login{
+    width:10%;
+    margin: 0 auto;
+}
